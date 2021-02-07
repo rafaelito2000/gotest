@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Ejemplo de salida")
+	fmt.Println("Ejemplo de salida git")
 	os.Exit(0)
 
 }
