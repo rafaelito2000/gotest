@@ -1,8 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"os"
+)
 
-func main(){
+func main() {
 	fmt.Println("Ejemplo de salida")
-}
+	os.Exit(0)
 
+}
